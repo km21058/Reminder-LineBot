@@ -1,0 +1,2 @@
+# Reminder-LineBot
+高専二年生時に趣味で製作した時間割リマインダーLineBot
