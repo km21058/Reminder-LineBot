@@ -1,2 +1,3 @@
 # Reminder-LineBot
 高専二年生時に趣味で製作した時間割リマインダーLineBot
+Google Apps Script(GAS)というJavaScriptベースの言語で書かれており、毎朝特定の時間にトリガーするように設定することで、その曜日の時間割が見れる。
